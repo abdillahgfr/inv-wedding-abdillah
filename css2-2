@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Yesteryear';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(s/yesteryear/v18/dg4g_p78rroaKl8kRKo1r7w.ttf) format('truetype');
+}

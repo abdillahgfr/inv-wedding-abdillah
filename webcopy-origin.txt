@@ -1,0 +1,652 @@
+Uri: https://billyisyell.katsudoto.id/
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\css2-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=block
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=block
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\css2-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=block
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\css2-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Yesteryear&display=block
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/greatvibes/v18/RWmMoKWR9v4ksMfaWd_JN-XC.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\greatvibes\v18\RWmMoKWR9v4ksMfaWd_JN-XC.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentserif/v4/jizBRFtNs2ka5fXjeivQ4LroWlx-2zI.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\instrumentserif\v4\jizBRFtNs2ka5fXjeivQ4LroWlx-2zI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentserif/v4/jizHRFtNs2ka5fXjeivQ4LroWlx-6zATiw.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\instrumentserif\v4\jizHRFtNs2ka5fXjeivQ4LroWlx-6zATiw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yesteryear/v18/dg4g_p78rroaKl8kRKo1r7w.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\s\yesteryear\v18\dg4g_p78rroaKl8kRKo1r7w.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/media/kat/bg-wa-box-fix.jpg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\kat\bg-wa-box-fix.jpg
+Content Type: image/jpeg
+
+Uri: https://katsudoto.id/media/kat/cloud-upload.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\kat\cloud-upload.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/kat/favicon.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\kat\favicon.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/details/music.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\details\music.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/bg-bride.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\bg-bride.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/bg-countdown.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\bg-countdown.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/bg-cover-mobile.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\bg-cover-mobile.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/bg-cover.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\bg-cover.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/bg-groom.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\bg-groom.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-01.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-01.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-02.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-02.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-03.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-03.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-04.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-04.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-05.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-05.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-06.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-06.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-07.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-07.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-08.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-08.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-cover-desktop.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-cover-desktop.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-cover-mobile.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-cover-mobile.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/orn-cover-tablet.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\orn-cover-tablet.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/nanda/01/palace.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\nanda\01\palace.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/protocol/04/distance.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\protocol\04\distance.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/protocol/04/hands.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\protocol\04\hands.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/protocol/04/mask.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\protocol\04\mask.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/media/template/protocol/04/thermo-gun.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\template\protocol\04\thermo-gun.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/plugin/aos/dist/aos.css
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\aos\dist\aos.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/plugin/aos/dist/aos.js
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\aos\dist\aos.js
+Content Type: text/javascript
+
+Uri: https://katsudoto.id/plugin/flexbin/flexbin.css
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\flexbin\flexbin.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/plugin/fontawesome/css/all.css
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\css\all.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://katsudoto.id/plugin/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://katsudoto.id/plugin/fonts/beauty-angelique.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\beauty-angelique.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/BebasKai.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\BebasKai.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/BebasNeue_Regular.otf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\BebasNeue_Regular.otf
+Content Type: font/otf
+
+Uri: https://katsudoto.id/plugin/fonts/Butler_Bold.otf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\Butler_Bold.otf
+Content Type: font/otf
+
+Uri: https://katsudoto.id/plugin/fonts/Butler_Light.otf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\Butler_Light.otf
+Content Type: font/otf
+
+Uri: https://katsudoto.id/plugin/fonts/Butler_Regular.otf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\Butler_Regular.otf
+Content Type: font/otf
+
+Uri: https://katsudoto.id/plugin/fonts/Calisto_MT_Fett.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\Calisto_MT_Fett.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/Creattion-Demo.otf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\Creattion-Demo.otf
+Content Type: font/otf
+
+Uri: https://katsudoto.id/plugin/fonts/Dear-Love.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\Dear-Love.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/Ebrima_Bold.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\Ebrima_Bold.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/Ebrima_Regular.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\Ebrima_Regular.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/ElsieSwashCaps.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\ElsieSwashCaps.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/goord.otf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\goord.otf
+Content Type: font/otf
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-300.eot
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-300.eot?
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-300.svg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-300.svg
+Content Type: image/svg+xml
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-300.woff
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-300.woff
+Content Type: font/woff
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-300.woff2
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-300.woff2
+Content Type: font/woff2
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-400.eot
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-400.eot?
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-400.svg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-400.svg
+Content Type: image/svg+xml
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-400.woff
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-400.woff
+Content Type: font/woff
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-400.woff2
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-400.woff2
+Content Type: font/woff2
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-500.eot
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-500.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-500.eot?
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-500-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-500.svg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-500.svg
+Content Type: image/svg+xml
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-500.woff
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-500.woff
+Content Type: font/woff
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-500.woff2
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-500.woff2
+Content Type: font/woff2
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-700.eot
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-700.eot?
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-700.svg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-700.svg
+Content Type: image/svg+xml
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-700.woff
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-700.woff
+Content Type: font/woff
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-700.woff2
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-700.woff2
+Content Type: font/woff2
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-800.eot
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-800.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-800.eot?
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-800-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-800.svg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-800.svg
+Content Type: image/svg+xml
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-800.woff
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-800.woff
+Content Type: font/woff
+
+Uri: https://katsudoto.id/plugin/fonts/montserrat-latin/montserrat-800.woff2
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\montserrat-latin\montserrat-800.woff2
+Content Type: font/woff2
+
+Uri: https://katsudoto.id/plugin/fonts/raleway/Raleway-Bold.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\raleway\Raleway-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/raleway/Raleway-Regular.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\raleway\Raleway-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/The_Castellon_Demo.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\The_Castellon_Demo.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/ventura_times.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\ventura_times.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/visia-pro/VisiaPro-Bold.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\visia-pro\VisiaPro-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/visia-pro/VisiaPro-ExtraBold.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\visia-pro\VisiaPro-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/visia-pro/VisiaPro-Heavy.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\visia-pro\VisiaPro-Heavy.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/visia-pro/VisiaPro-Light.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\visia-pro\VisiaPro-Light.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/fonts/visia-pro/VisiaPro-SemiBold.ttf
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\fonts\visia-pro\VisiaPro-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/lightgallery/dist/css/lightgallery.css
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\lightgallery\dist\css\lightgallery.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/plugin/lightgallery/dist/fonts/lg.svg?22t19m
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\lightgallery\dist\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://katsudoto.id/plugin/lightgallery/dist/fonts/lg.ttf?22t19m
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\lightgallery\dist\fonts\lg.ttf
+Content Type: font/ttf
+
+Uri: https://katsudoto.id/plugin/lightgallery/dist/fonts/lg.woff?22t19m
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\lightgallery\dist\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://katsudoto.id/plugin/lightgallery/dist/img/loading.gif
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\lightgallery\dist\img\loading.gif
+Content Type: image/gif
+
+Uri: https://katsudoto.id/plugin/lightgallery/dist/img/video-play.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\lightgallery\dist\img\video-play.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/plugin/lightgallery/dist/img/vimeo-play.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\lightgallery\dist\img\vimeo-play.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/plugin/lightgallery/dist/img/youtube-play.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\lightgallery\dist\img\youtube-play.png
+Content Type: image/png
+
+Uri: https://katsudoto.id/plugin/lightgallery/dist/js/lightgallery.min.js
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\lightgallery\dist\js\lightgallery.min.js
+Content Type: text/javascript
+
+Uri: https://katsudoto.id/plugin/modal-video/css/modal-video.min.css
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\modal-video\css\modal-video.min.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/plugin/modal-video/js/jquery-modal-video.min.js
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\modal-video\js\jquery-modal-video.min.js
+Content Type: text/javascript
+
+Uri: https://katsudoto.id/plugin/selectize/dist/css/selectize.default.css
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\selectize\dist\css\selectize.default.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/plugin/selectize/dist/js/standalone/selectize.min.js
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\selectize\dist\js\standalone\selectize.min.js
+Content Type: text/javascript
+
+Uri: https://katsudoto.id/plugin/slick/slick.css
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\slick\slick.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/plugin/slick/slick.min.js
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\plugin\slick\slick.min.js
+Content Type: text/javascript
+
+Uri: https://katsudoto.id/src/jquery.js
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\src\jquery.js
+Content Type: text/javascript
+
+Uri: https://katsudoto.id/src/template/exclusive-chitra.css?1702706423
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\src\template\exclusive-chitra.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/src/template/global.css?1702706423
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\src\template\global.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/src/template/js/exclusive-chitra.js?1702706423
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\src\template\js\exclusive-chitra.js
+Content Type: text/javascript
+
+Uri: https://katsudoto.id/src/template/template.js?1702706423
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\src\template\template.js
+Content Type: text/javascript
+
+Uri: https://katsudoto.id/src/universal.css?1702706423
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\src\universal.css
+Content Type: text/css
+
+Uri: https://katsudoto.id/src/universal.js?1702706423
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\src\universal.js
+Content Type: text/javascript
+
+Uri: https://ktsd-storage.com/media/public/20280/16108/book/thumb_lg_126800_1671271453_1200_1200.jpeg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\public\20280\16108\book\thumb_lg_126800_1671271453_1200_1200.jpeg
+Content Type: image/jpeg
+
+Uri: https://ktsd-storage.com/media/public/20280/16108/book/thumb_md_126800_1671271453_600_600.jpeg
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\public\20280\16108\book\thumb_md_126800_1671271453_600_600.jpeg
+Content Type: image/jpeg
+
+Uri: https://ktsd-storage.com/media/public/20280/16108/couple/thumb_lg_126999_1671417414_1200_1200.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\public\20280\16108\couple\thumb_lg_126999_1671417414_1200_1200.png
+Content Type: image/png
+
+Uri: https://ktsd-storage.com/media/public/20280/16108/couple/thumb_lg_127000_1671417431_1200_1200.png
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\media\public\20280\16108\couple\thumb_lg_127000_1671417431_1200_1200.png
+Content Type: image/png
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/index.js
+File Name: C:\Users\BLACKBOX\OneDrive\Desktop\Wedding\billyisyell.katsudoto.id\@phosphor-icons\web@2.0.3\src\index.js
+Content Type: application/javascript
+
